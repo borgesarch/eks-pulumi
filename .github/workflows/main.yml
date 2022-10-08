@@ -1,6 +1,5 @@
 name: Pulumi
-on:
-  - pull_request
+
 jobs:
   preview:
     name: Preview
