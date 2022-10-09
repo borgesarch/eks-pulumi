@@ -1,5 +1,5 @@
 {
-    "name": "eks-pulumi-ts",
+    "name": "eks-pulumi",
     "main": "index.ts",
     "devDependencies": {
         "@types/node": "^14"
